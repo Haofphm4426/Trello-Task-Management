@@ -1,7 +1,7 @@
 # TodoList 
 
 ## Description
-Here is my source code for TodoList App. With my code:
+Here is my source code for Trello App. With my code:
 * Designed & Optimized RESTful APIs with best practices in error handling, validation, and security (authentication & authorization) 
 * Handled Register (Integrated Brevo API for sending transactional emails for account 
 verification) 
